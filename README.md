@@ -13,8 +13,8 @@ RapidAid is a real-time emergency help locator that uses geolocation and interac
 - 🗺️ Interactive map  
 
 ## 📷 Screenshot
-![App Screenshot](<img width="1470" height="956" alt="RapidAid" src="https://github.com/user-attachments/assets/24402f80-9011-4c8d-9b6c-e121a35ab895" />
-)
+<img width="1470" height="956" alt="RapidAid" src="https://github.com/user-attachments/assets/5e0eb524-765f-48ba-9adb-f8239377cf8b" />
+
 
 ## 🛠️ Tech Stack
 HTML, CSS, JavaScript, Leaflet.js, OpenStreetMap
