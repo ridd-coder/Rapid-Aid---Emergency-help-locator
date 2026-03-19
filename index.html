@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emergency Help Locator</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>🚨 Emergency Help Locator</h1>
+        <p class="subtitle">Find nearby emergency services instantly</p>
+
+        <div class="buttons">
+            <button onclick="findHelp('hospital')">🏥 Hospital</button>
+            <button onclick="findHelp('police')">🚓 Police</button>
+            <button onclick="findHelp('pharmacy')">💊 Pharmacy</button>
+        </div>
+
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
